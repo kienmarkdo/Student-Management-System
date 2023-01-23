@@ -10,3 +10,5 @@ Introductory project following this [tutorial](https://www.youtube.com/watch?v=O
   - MySQL
 - API Testing
   - Postman
+
+The Spring Boot backend for the project can be found [here](https://github.com/kienmarkdo/Student-Management-System-Backend)

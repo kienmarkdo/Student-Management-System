@@ -1,6 +1,10 @@
 # Student-Management-System
 Introductory full-stack project following this [tutorial](https://www.youtube.com/watch?v=O_XL9oQ1_To) for me to practice Spring Boot.
 
+To run the project locally, open the terminal in the root of the repository and run the command `npm run start`.
+
+## Tools used
+
 - Front-end
   - React
   - Material UI
